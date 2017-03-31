@@ -1,0 +1,8 @@
+appdirs==1.4.3
+bottle==0.12.13
+httpie==0.9.9
+packaging==16.8
+Pygments==2.2.0
+pyparsing==2.2.0
+requests==2.13.0
+six==1.10.0
